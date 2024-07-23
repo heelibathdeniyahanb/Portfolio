@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240721164755_addistaggedcolumntoproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240721164755_addistaggedcolumntoproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\dtos\\projectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\dtos\\projectdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240719154243_addaddeddateandmodifieddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240719154243_addaddeddateandmodifieddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240715162842_addprofileandprojectsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240715162842_addprofileandprojectsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240715162210_projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240715162210_projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240708053039_createemailmodelandattachmentrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240708053039_createemailmodelandattachmentrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240709091040_contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240709091040_contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240715154246_profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240715154246_profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240717055917_addcolumntechnoloies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240717055917_addcolumntechnoloies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240717075217_changedatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240717075217_changedatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|c:\\users\\lapmart\\documents\\individual projets\\portfolionew\\portfolio2\\server\\portfolio\\portfolio\\migrations\\20240722144352_createblogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F8112D-3106-44B3-A45E-B82D2BF675A7}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\migrations\\20240722144352_createblogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAuwAgBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:47:52.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogDto.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Dtos\\BlogDto.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Dtos\\BlogDto.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Dtos\\BlogDto.cs",
+              "RelativeToolTip": "Portfolio\\Dtos\\BlogDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:46:47.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240722144352_CreateBlogModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240722144352_CreateBlogModel.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240722144352_CreateBlogModel.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240722144352_CreateBlogModel.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240722144352_CreateBlogModel.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwDUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:43:52.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blogs.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Models\\Blogs.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Blogs.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Models\\Blogs.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Blogs.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:02:51.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240721164755_AddIsTaggedColumntoProject.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240721164755_AddIsTaggedColumntoProject.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240721164755_AddIsTaggedColumntoProject.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240721164755_AddIsTaggedColumntoProject.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240721164755_AddIsTaggedColumntoProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:47:55.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240719154243_AddAddedDateAndModifiedDate.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240719154243_AddAddedDateAndModifiedDate.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240719154243_AddAddedDateAndModifiedDate.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240719154243_AddAddedDateAndModifiedDate.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240719154243_AddAddedDateAndModifiedDate.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:42:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240717075217_ChangeDataType.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240717075217_ChangeDataType.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240717075217_ChangeDataType.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240717075217_ChangeDataType.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240717075217_ChangeDataType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:52:18.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240717055917_AddColumnTechnoloies.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240717055917_AddColumnTechnoloies.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240717055917_AddColumnTechnoloies.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240717055917_AddColumnTechnoloies.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240717055917_AddColumnTechnoloies.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAABRwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:59:18.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectDtos.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Dtos\\ProjectDtos.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Dtos\\ProjectDtos.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Dtos\\ProjectDtos.cs",
+              "RelativeToolTip": "Portfolio\\Dtos\\ProjectDtos.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:33:09.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAiwDYBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:41:11.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240715162842_AddprofileAndProjectsModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240715162842_AddprofileAndProjectsModel.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240715162842_AddprofileAndProjectsModel.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240715162842_AddprofileAndProjectsModel.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240715162842_AddprofileAndProjectsModel.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:28:42.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240715162210_ProjectModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240715162210_ProjectModel.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240715162210_ProjectModel.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240715162210_ProjectModel.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240715162210_ProjectModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:22:11.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Models\\Projects.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Projects.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Models\\Projects.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Projects.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA9wA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:13:23.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240715154246_ProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240715154246_ProfileModel.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240715154246_ProfileModel.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240715154246_ProfileModel.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240715154246_ProfileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:42:46.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Portfolio\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:35:04.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Portfolio\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:34:25.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwDAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:19:12.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Profile.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Models\\Profile.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Profile.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:05:34.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240709091040_ContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240709091040_ContactForm.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240709091040_ContactForm.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240709091040_ContactForm.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240709091040_ContactForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:10:42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240708053039_CreateEmailModelAndAttachmentRelation.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240708053039_CreateEmailModelAndAttachmentRelation.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Migrations\\20240708053039_CreateEmailModelAndAttachmentRelation.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Migrations\\20240708053039_CreateEmailModelAndAttachmentRelation.cs",
+              "RelativeToolTip": "Portfolio\\Migrations\\20240708053039_CreateEmailModelAndAttachmentRelation.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:30:39.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "Portfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\appsettings.json",
+              "RelativeToolTip": "Portfolio\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T04:59:56.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Portfolio\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:39:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Portfolio\\Data\\DatabaseContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:10:07.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Portfolio.csproj",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Portfolio.csproj",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio.csproj",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Portfolio.csproj",
+              "RelativeToolTip": "Portfolio\\Portfolio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T11:09:44.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Models\\Email.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Email.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:07:29.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\LAPMART\\Documents\\Individual Projets\\PortfolioNew\\Portfolio2\\server\\Portfolio\\Portfolio\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:06:43.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Portfolio",
+    "\\Portfolio\\Portfolio",
+    "\\Portfolio\\Portfolio\\Controllers",
+    "\\Portfolio\\Portfolio\\Data",
+    "\\Portfolio\\Portfolio\\Migrations",
+    "\\Portfolio\\Portfolio\\Models"
+  ],
+  "SelectedNode": "\\Portfolio\\Portfolio\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
